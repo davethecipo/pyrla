@@ -12,4 +12,4 @@ replay = parse_replay(buf)
 
 def main():
     print('wewe')
-
+    print('test')
