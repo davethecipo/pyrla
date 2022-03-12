@@ -1,0 +1,37 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "30e967e211c4deabc9451a97f44720572852780e6e6b26318697f817ae3a97a5"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.8"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "boxcars-py": {
+            "hashes": [
+                "sha256:208a041b9f0666dd2e6c64907e03a7776062d2f0c3a8e8b570b6e574c396eb0a",
+                "sha256:2f72be9f0d5b3e9bfdbc2e7bc45c07a0570c67245fe4ca51a54dfc6e855a913a",
+                "sha256:3d80331e54395b091c0057bfb9a2e10080f6c13450ef44a5715fe414a7af0328",
+                "sha256:626565fc978591a1f21b0df2d08d00c94c66e7917d403eb7013590b9b83d6a61",
+                "sha256:6386d0653259f05e317d5fc80db482987941faf14c23a7ea8e7157208aa26fd0",
+                "sha256:b62a4ceb4fdb4259e8f5bd476bde5d8c23db6a6b1b87ca3c247df2d6fbe76de6"
+            ],
+            "index": "pypi",
+            "version": "==0.1.14"
+        },
+        "e1839a8": {
+            "editable": true,
+            "path": "."
+        }
+    },
+    "develop": {}
+}
